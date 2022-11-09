@@ -11,7 +11,8 @@
     - High traffic causes high response time.
   
 ## 2. Client/Server environment.
-    The application is installed locally on each end user's device.
+    - The application is installed locally on each end user's device.
+    - User = Thick Client.
 
 ### Problems of Client/Server environment.
     - Single point of failure in the database server.
@@ -22,6 +23,7 @@
 
 ## 3. Internet Computing environment (Three-tier Architecture).
     - The application is installed on a separate server.
+    - User = Thin Client.
     - تم توزيع الحمل على خادمين مختلفين.
   
 ### Problems of Internet Computing environment.
