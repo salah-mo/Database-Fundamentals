@@ -20,7 +20,7 @@
 ### Advantages of Client/Server environment.
     The application layer hasn't become a single point of failure.
 
-## 3. Internet Computing environment.
+## 3. Internet Computing environment (Three-tier Architecture).
     - The application is installed on a separate server.
     - تم توزيع الحمل على خادمين مختلفين.
   
